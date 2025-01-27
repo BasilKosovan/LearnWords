@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LearnWords": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "botToken": "8138395790:AAHpVxbSPeDSDhY-GYzohyUjwQ0_QgtV-_U"
+      }
+    }
+  }
+}
